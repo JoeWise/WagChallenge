@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WagChallenge</string>
+    <string name="Bronze">Bronze</string>
+    <string name="Silver">Silver</string>
+    <string name="Gold">Gold</string>
+</resources>
